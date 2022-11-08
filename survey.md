@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: burger
+Favorite musician/band: coldplay
+Favorite movie: titanic
+Requested grade in the course:100  
